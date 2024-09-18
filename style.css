@@ -1,0 +1,39 @@
+   body{
+    background-color: rgb(15, 84, 15);
+    color: rgb(240, 209, 130);
+    font-family: 'Josefin Sans';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+ }
+ button{
+    background-color: rgb(15, 84, 15);
+    color: rgb(240, 209, 130);
+    font-family: 'Josefin Sans';
+ }
+ .passo{
+   display: none;
+ }
+
+.passo.ativo{
+   display: block;
+}
+
+main{
+   text-align: center;
+   max-width: 90%;
+}
+
+img{
+   max-width: 80%;
+
+}
+
+
+
+
+
+
+
